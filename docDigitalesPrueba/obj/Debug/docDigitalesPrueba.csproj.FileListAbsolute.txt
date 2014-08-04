@@ -1,0 +1,5 @@
+c:\users\esteban\documents\visual studio 2012\Projects\docDigitalesPrueba\docDigitalesPrueba\bin\docDigitalesPrueba.dll
+c:\users\esteban\documents\visual studio 2012\Projects\docDigitalesPrueba\docDigitalesPrueba\bin\docDigitalesPrueba.pdb
+c:\users\esteban\documents\visual studio 2012\Projects\docDigitalesPrueba\docDigitalesPrueba\obj\Debug\docDigitalesPrueba.csprojResolveAssemblyReference.cache
+c:\users\esteban\documents\visual studio 2012\Projects\docDigitalesPrueba\docDigitalesPrueba\obj\Debug\docDigitalesPrueba.dll
+c:\users\esteban\documents\visual studio 2012\Projects\docDigitalesPrueba\docDigitalesPrueba\obj\Debug\docDigitalesPrueba.pdb
